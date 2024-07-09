@@ -28,6 +28,6 @@ venv\Scripts\activate
 
 una vez realizado esto, se debera instalar las librerias con:
 
-pip install pygame==2.8.2 requests==2.32.3 pydantic==2.8.2 
+pip install pygame==2.6.0 requests==2.32.3 pydantic==2.8.2 
 
 Una vez hecho esto, se debera ejecutar el archivo main.py
